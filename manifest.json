@@ -1,0 +1,25 @@
+{
+  "name": "Watchlog",
+  "short_name": "Watchlog",
+  "description": "드라마/영화/예능 시청 기록 다이어리",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0e7d2",
+  "theme_color": "#f0e7d2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
